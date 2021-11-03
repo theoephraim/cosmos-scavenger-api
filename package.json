@@ -13,7 +13,7 @@
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^8.0.8",
     "lodash": "^4.17.15",
-    "validator": "^3.27.0"
+    "validator": "^13.7.0"
   },
   "devDependencies": {
     "chokidar": "^3.3.1",
